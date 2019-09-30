@@ -1,0 +1,12 @@
+# ignore all logs
+*.logs
+
+# ignores dependency caches
+/node_modules
+/packages
+
+# Environmental Variables
+.env
+
+# Hidden systems
+.DS_Store
